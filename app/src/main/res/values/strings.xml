@@ -1,0 +1,15 @@
+<resources>
+    <string name="dateInfo">17 en 18 februari 2017</string>
+    <string name="schedule">Schedule</string>
+    <string name="location">Location</string>
+    <string name="vote">Vote</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="button_sessions">Sessions</string>
+    <string name="session_image_content_description">a small session image</string>
+    <string name="app_name">TI Conference Days</string>
+    <string-array name="choices">
+        <item>Sessions</item>
+        <item>Location</item>
+        <item>Schedule</item>
+    </string-array>
+</resources>
